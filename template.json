@@ -23,6 +23,18 @@
           "value": 1
         }
       },
+      "info": {
+        "trope": "",
+        "age": "",
+        "pronouns": "",
+        "fear": "",
+        "motivation": "",
+        "grade": "",
+        "animalFamiliar": "",
+        "adversity": "",
+        "tropeQuestions": "",
+        "strengths": ""
+      },
       "abilities": {
         "str": {
           "value": 10
@@ -41,6 +53,24 @@
         },
         "cha": {
           "value": 10
+        },
+        "brains": {
+          "value": 4
+        },
+        "brawn": {
+          "value": 4
+        },
+        "fight": {
+          "value": 4
+        },
+        "flight": {
+          "value": 4
+        },
+        "charm": {
+          "value": 4
+        },
+        "grit": {
+          "value": 4
         }
       }
     },
